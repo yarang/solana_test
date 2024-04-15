@@ -1,0 +1,24 @@
+{
+    "name": "EGG CONDOR COIN",
+    "symbol": "EDOR",
+    "description": "EGG for CONDOR COIN",
+    "image": "https://raw.githubusercontent.com/yarang/solana_test/image.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Egg"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Condor"
+        },
+        {
+            "trait_type": "Egg",
+            "value": "EDOR"
+        }
+    ]
+}
